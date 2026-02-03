@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://blog.compass-security.com/2019/12/finding-active-directory-attack-paths-using-bloodhound/" alt="BloodHound logo" width="220">
+</p>
+
 # BloodHound Cypher Queries – Red Team Operation
 
 **Sources:** SpecterOps BloodHound Query Library, Hausec cheat sheet, knavesec custom queries, stmxcsr, arth0s, community.  
