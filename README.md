@@ -1,8 +1,7 @@
+# BloodHound Cypher Queries – Red Team Operation
 <p align="center">
   <img src="https://specterops.io/wp-content/uploads/sites/3/2025/04/1_E0I-QO-1U8yROC6FbUyHGA.png" alt="BloodHound logo" width="440">
 </p>
-# BloodHound Cypher Queries – Red Team Operation
-
 **Sources:** SpecterOps BloodHound Query Library, Hausec cheat sheet, knavesec custom queries, stmxcsr, arth0s, community.  
 **Use:** BloodHound CE/Enterprise or Neo4j browser. Replace `DOMAIN.GR` / `TESTLAB.LOCAL` / `EXAMPLE.LOCAL` with your domain.
 
