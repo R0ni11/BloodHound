@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="BloodHound/BloodHound.png" alt="BloodHound logo" width="220">
-</p>
+[![Logo](images/logo.png)](https://github.com)
 
 # BloodHound Cypher Queries – Red Team Operation
 
