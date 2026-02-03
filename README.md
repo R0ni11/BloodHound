@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="BloodHound.png" alt="BloodHound logo" width="220">
+  <img src="BloodHound/BloodHound.png" alt="BloodHound logo" width="220">
 </p>
 
 # BloodHound Cypher Queries – Red Team Operation
