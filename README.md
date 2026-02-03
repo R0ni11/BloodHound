@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://blog.compass-security.com/2019/12/finding-active-directory-attack-paths-using-bloodhound/" alt="BloodHound logo" width="220">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcAB57Iu7NjU2Bv8b0W_vMmecgNr_CaPVcw&s" alt="BloodHound logo" width="220">
 </p>
 
 # BloodHound Cypher Queries – Red Team Operation
