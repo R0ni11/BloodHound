@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://specterops.io/wp-content/uploads/sites/3/2025/04/1_E0I-QO-1U8yROC6FbUyHGA.png" alt="BloodHound logo" width="220">
+  <img src="https://specterops.io/wp-content/uploads/sites/3/2025/04/1_E0I-QO-1U8yROC6FbUyHGA.png" alt="BloodHound logo" width="440">
 </p>
 # BloodHound Cypher Queries – Red Team Operation
 
