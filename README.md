@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQPcAB57Iu7NjU2Bv8b0W_vMmecgNr_CaPVcw&s" alt="BloodHound logo" width="220">
+  <img src="BloodHound.png" alt="BloodHound logo" width="220">
 </p>
 
 # BloodHound Cypher Queries – Red Team Operation
