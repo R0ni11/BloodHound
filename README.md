@@ -1,6 +1,5 @@
-![BloodHound logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWguxJeH29Lg0wvFnRO9l3aXA2awCj3_mBIg&s)
 <p align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWguxJeH29Lg0wvFnRO9l3aXA2awCj3_mBIg&s" alt="BloodHound logo" width="220">
+  <img src="https://specterops.io/wp-content/uploads/sites/3/2025/04/1_E0I-QO-1U8yROC6FbUyHGA.png" alt="BloodHound logo" width="220">
 </p>
 # BloodHound Cypher Queries – Red Team Operation
 
