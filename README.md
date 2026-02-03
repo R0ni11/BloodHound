@@ -1,5 +1,7 @@
-[![Logo](images/logo.png)](https://github.com)
-
+![BloodHound logo](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWguxJeH29Lg0wvFnRO9l3aXA2awCj3_mBIg&s)
+<p align="center">
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWguxJeH29Lg0wvFnRO9l3aXA2awCj3_mBIg&s" alt="BloodHound logo" width="220">
+</p>
 # BloodHound Cypher Queries – Red Team Operation
 
 **Sources:** SpecterOps BloodHound Query Library, Hausec cheat sheet, knavesec custom queries, stmxcsr, arth0s, community.  
